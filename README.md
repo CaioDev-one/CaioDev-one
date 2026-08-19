@@ -31,14 +31,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🏆 Linguagens Mais Usadas & Estatísticas
+## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <!-- Card de Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallowedss&layout=compact&theme=dark&langs_count=6" />
-  
-  <!-- Card de Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hallowedss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hallowedss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallowedss&layout=compact&theme=dark"/>
 </div>
 
 ---
